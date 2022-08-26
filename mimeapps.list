@@ -1,0 +1,7 @@
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+text/css=typora.desktop;
+image/jpeg=org.xfce.ristretto.desktop;
+text/plain=nvim.desktop;nm-applet.desktop;
